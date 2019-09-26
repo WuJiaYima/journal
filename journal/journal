@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html >
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Document</title>
+  <title>My Trip Around the USA on a Segway</title>
+</head>
+<body>
+  <h1>Segawy'n USA</h1>
+  <p>
+      Documenting my trip around the USA on my very own Segway!
+  </p>
+  <h2>August 20, 2012</h2>
+  <img src="images/segway2.jpg">
+  <p>
+      Well I made it 1200 mile already,and I passed through some interesting please on the way: Walla Walla, WA, Magic City, ID, Bountiful, UT, Last Chance, Co, Why, AZ and Truth or Consequences, NM.
+  </p>
+
+  <h2>July 14, 2012</h2>
+  <P>
+      I saw some Burma Shave style signes on the side of the road today:"Passing cards, When you can't see, May get you, A glimpes, Of eternitly."I definitely yon't be passing any cars.
+  </P>
+
+  <h2>June 2, 2012</h2>
+<img src="images/segway1.jpg">
+<p>
+    My first day of the trip! I can't believe I finally got everything packed and ready to go. Because I'm on a Aegway, digital camera, and a protein bar. Just the essentials. As Lao Tzu would have said, "A journey of a thousand miles begins with one Sedway."
+</p>
+</body>
+</html>
